@@ -43,7 +43,7 @@ Open Browser
 
 ## Screenshots
 
-![App Screenshot](./screenshots/screenshot.jpeg)
+![App Screenshot](screenshots/screenshot.jpeg)
 
 
 ## 🔗 Links
