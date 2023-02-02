@@ -1,27 +1,53 @@
-# Angular Bootstrap Input Fields
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.3.
+# Angular Input Fields
 
-## Development server
+An Angular Project to check all the different input fields available
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Installation and Running
 
-## Build
+Install with npm
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+    Download this repository and then run the following commands
 
-## Running unit tests
+```bash
+  npm install
+```
+Run Angular Server
+```bash
+  ng serve
+```
+Open Browser
+    http://localhost:4200/
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Available Input Fields
 
-## Running end-to-end tests
+- Text Fields
+- Number Fields
+- Password Fields
+- Date Fields
+- Date Time Fields
+- Time Fields
+- Week Fields
+- Month Fields
+- DropDown Fields
+- Multiple Options Fields
+- Text Area Fields
+- Color Picker Fields
+- Image Fields
+- File Input Fields
+- Radio Button Fields
+- Range Fields
+- Checkbox
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Screenshots
 
-## Further help
+![App Screenshot](./screenshots/screenshot.jpeg)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://prahladinala.in/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/prahladinala)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/prahladinala)
+
